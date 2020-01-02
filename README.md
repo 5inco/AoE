@@ -12,7 +12,7 @@ $ apt-get install perl<br>
 $ git clone https://github.com/5inco/AoE.git<br>
 $ cd AoE<br>
 $ ls<br>
-$ perl aoe.pl -options<br>
+$ perl aoe.pl -h<br>
 
 <br><b>USAGE:</b></br>
 $ perl aoe.pl -options<br>
