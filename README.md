@@ -14,7 +14,7 @@ $ cd AoE<br>
 $ ls<br>
 $ perl aoe.pl -h<br>
 <br><b>USAGE:</b></br>
-$ perl aoe.pl -options<br>
+$ perl aoe.pl -h<br>
 $ perl aoe.pl -dns [www.websiteip.com]<br>
 <br><b>EXAMPLE:</b></br>
 $ perl aoe.pl -dns xxx.xx.xx.xxx <----victimipaddress<br>
