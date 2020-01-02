@@ -33,8 +33,10 @@ if ($version) {
 }
 
 unless ($host) {
-    	print "Usage:\n\n\tperl $0 -dns [www.websiteip.com] -options\n";
-	print "Example:\n\n\tperl $0 -dns xxx.xx.xx.xxx -options\n";
+    	print "perl $0 -options\n";
+	print "Usage:\n\n\tperl $0 -options
+	perl $0 -dns [www.websiteip.com]\n";
+	print "Example:\n\n\tperl $0 -dns xxx.xx.xx.xxx\n";
 	print "Command:\n\n\tctrl+c = Stop Area of Effect\n";
     	exit;
 }
