@@ -33,7 +33,7 @@ if ($version) {
 }
 
 unless ($host) {
-    	print "perl $0 -options\n";
+
 	print "Usage:\n\n\tperl $0 -options
 	perl $0 -dns [www.websiteip.com]\n";
 	print "Example:\n\n\tperl $0 -dns xxx.xx.xx.xxx\n";
