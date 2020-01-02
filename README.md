@@ -13,10 +13,9 @@ $ git clone https://github.com/5inco/AoE.git<br>
 $ cd AoE<br>
 $ ls<br>
 $ perl aoe.pl -h<br>
-
 <br><b>USAGE:</b></br>
 $ perl aoe.pl -options<br>
 $ perl aoe.pl -dns [www.websiteip.com]<br>
 <br><b>EXAMPLE:</b></br>
 $ perl aoe.pl -dns xxx.xx.xx.xxx <----victimipaddress<br>
-Video Tutorial Link: https://youtu.be/f6I-RnnpIt8<br>
+<br>Video Tutorial Link: https://youtu.be/f6I-RnnpIt8</br>
