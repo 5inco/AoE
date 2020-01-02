@@ -5,8 +5,8 @@ Area of Effect [AoE] both helps identify the timeout windows of a HTTP server or
 
 Credit to the Author : Laera Loris [Original Script Slowloris]
 
-<br>USAGE:</br>
+<br><b>USAGE:</b></br>
 <br>$ perl aoe.pl -options</br>
 <br>$ perl aoe.pl -dns [www.websiteip.com]</br>
-<br>EXAMPLE:</br>
+<br><b>EXAMPLE:</b></br>
 <br>$ perl aoe.pl -dns xxx.xx.xx.xxx <----victimipaddress</br>
